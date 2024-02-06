@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('NotoSerif-Bold.eot');
+    src: url('NotoSerif-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerif-Bold.woff2') format('woff2'),
+        url('NotoSerif-Bold.woff') format('woff'),
+        url('NotoSerif-Bold.ttf') format('truetype'),
+        url('NotoSerif-Bold.svg#NotoSerif-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('NotoSerif-Light.eot');
+    src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerif-Light.woff2') format('woff2'),
+        url('NotoSerif-Light.woff') format('woff'),
+        url('NotoSerif-Light.ttf') format('truetype'),
+        url('NotoSerif-Light.svg#NotoSerif-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('NotoSerif-Medium.eot');
+    src: url('NotoSerif-Medium.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerif-Medium.woff2') format('woff2'),
+        url('NotoSerif-Medium.woff') format('woff'),
+        url('NotoSerif-Medium.ttf') format('truetype'),
+        url('NotoSerif-Medium.svg#NotoSerif-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('NotoSerif-Regular.eot');
+    src: url('NotoSerif-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerif-Regular.woff2') format('woff2'),
+        url('NotoSerif-Regular.woff') format('woff'),
+        url('NotoSerif-Regular.ttf') format('truetype'),
+        url('NotoSerif-Regular.svg#NotoSerif-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('NotoSerif-SemiBold.eot');
+    src: url('NotoSerif-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSerif-SemiBold.woff2') format('woff2'),
+        url('NotoSerif-SemiBold.woff') format('woff'),
+        url('NotoSerif-SemiBold.ttf') format('truetype'),
+        url('NotoSerif-SemiBold.svg#NotoSerif-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
